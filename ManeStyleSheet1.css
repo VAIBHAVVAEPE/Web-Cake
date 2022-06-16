@@ -1,0 +1,119 @@
+﻿
+/*Home Page*/
+nav {
+    background-color: aqua;
+    height: 49px;
+    padding: 4px;
+
+    width: 100%;
+    position: sticky;
+    
+    z-index: 2;
+    top: 0px;
+}
+ul {
+    display: inline-flex;
+    list-style: none;
+    float: right;
+    text-decoration: underline;
+}
+    ul li {
+        padding-right: 14px;
+    }
+
+        ul li a {
+            text-decoration: none;
+            color: black;
+            font-size: 23px;
+            font-style: normal;
+        }
+
+.banner {
+    position: relative;
+    
+    text-align: justify;
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-size: 19px;
+    font-style: oblique;
+    font-weight: 800;
+    font-family: sans-serif;
+}
+    .banner img {
+        width: 100%;
+        margin: -9px -1px 11px -11px;
+        border: 12px solid red;
+        box-shadow: 0px 12px 23px blue;
+        height: 600px;
+    }
+
+
+.content th {
+    padding-left: 100px;
+    padding-top: 50px;
+    gap: 10px;
+    
+}
+.content tr {
+    margin: 14px 116px 10px 10px;
+    padding-left: 500px;
+}
+#r11 {
+    padding-left: 100px;
+    padding-top: 50px;
+    gap: 10px;
+    
+    
+   
+}
+
+
+
+
+
+
+
+/* About us*/
+.banner2 {
+    border: 17px solid tomato;
+    margin: 10px 25px 14px 22px;
+    box-sizing: content-box;
+    box-shadow: 14px 10px 20px yellow;
+    font-size: 30px;
+    text-align: justify;
+    padding: 25px 21px 20px 20px;
+    text-transform: capitalize;
+    font-style: normal;
+    font-weight: 500;
+    font-family: emoji;
+}
+#nav2 {
+    background-color: #88a3a3;
+    height: 49px;
+    padding: 4px;
+    width: 100%;
+}
+h1 {
+    text-align:center;
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-size:100px;
+    font-style: oblique;
+    font-weight: 800;
+    font-family: sans-serif;
+}
+
+
+/*Contact Us*/
+#nav3 {
+    background-color: #88a3a3;
+    height: 49px;
+    padding: 4px;
+    width: 100%;
+}
+
+#table1 {
+    text-align: center;
+
+}
+
